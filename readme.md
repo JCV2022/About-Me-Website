@@ -34,7 +34,7 @@ A code editor program is needed. Any should do fine, I used Visual Studio Code t
 
 If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
 
-![image-20230910181043468](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910181043468.png)
+![](img/liveserver.png)
 
 ## Contact Info
 
