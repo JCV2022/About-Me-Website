@@ -14,7 +14,7 @@ This website is purely coded using HTML, so users will be able to view the page 
 
 This website exists to experience what it is like to code a working website that can also give some facts about myself while having the user input feedback.
 
-![about_me](C:\Users\jonat\Downloads\about_me.gif)
+![about_me](img/about_me.gif)
 
 The main technical concepts that this website revolves around are the custom table that highlights my daily schedule and the choices the user can input a variety of commands. 
 
