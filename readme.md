@@ -1,10 +1,12 @@
 # About Me HTML Website
 
-My first coded project using HTML. Users can see my daily schedule on a custom table, view my favorite and least favorite vacation spots through unordered lists, and input their contact information. Users can also choose from multiple options to select their favorite food, pets, and if you want to post a message on the website.![](C:\Users\jonat\Downloads\jonathancvu.com_index.html.png)
+My first coded project using HTML. Users can see my daily schedule on a custom table, view my favorite and least favorite vacation spots through unordered lists, and input their contact information. Users can also choose from multiple options to select their favorite food, pets, and if you want to post a message on the website.
+
+![](img/home.png)
 
 Clicking on the name at the bottom of the webpage will bring the user to a more detailed description of who I am. Users can click on various links that will perform different actions such as download the HTML5 favicon, contact me via email, call me via phone, and open the Google search engine on a separate tab. 
 
-![](img/html.png)
+![](img/about.png)
 
 This website is purely coded using HTML, so users will be able to view the page and navigate without trouble. 
 
