@@ -4,7 +4,7 @@ My first coded project using HTML. Users can see my daily schedule on a custom t
 
 Clicking on the name at the bottom of the webpage will bring the user to a more detailed description of who I am. Users can click on various links that will perform different actions such as download the HTML5 favicon, contact me via email, call me via phone, and open the Google search engine on a separate tab. 
 
-![](C:\Users\jonat\Downloads\jonathancvu.com_about.html.png)
+![](img/html.png)
 
 This website is purely coded using HTML, so users will be able to view the page and navigate without trouble. 
 
