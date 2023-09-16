@@ -20,11 +20,11 @@ The main technical concepts that this website revolves around are the custom tab
 
 Using the tables property and by manipulating the table head (th tag <th>) and table row (tr tag <tr>), I was able to produce a custom table with each row and column having varying spans and information stored in each data cell (<td>). 
 
-![image-20230910165141104](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910165141104.png)
+![](img/html.png)
 
 For the inputs, the information inputted by the user gets send to https://httpbin.org/get through the get method. Through labels and inputs, I was able to display a form section where the user can enter their contact information and have it saved on the website. Each input section was separated by its own fieldset.
 
-![image-20230910165055696](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910165055696.png)
+![](img/html1.png)
 
 ## Getting Started/Requirements
 
